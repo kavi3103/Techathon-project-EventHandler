@@ -1,5 +1,5 @@
-#Techathon Project
+# Techathon Project
 
-#Event Handler
+# Event Handler
 
 # team name:  flying-colors
